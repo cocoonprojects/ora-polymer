@@ -12,6 +12,11 @@
     "core-toolbar": "Polymer/core-toolbar#^0.5",
     "core-menu": "Polymer/core-menu#^0.5",
     "core-item": "Polymer/core-item#^0.5",
-    "paper-tabs": "Polymer/paper-tabs#^0.5"
+    "core-ajax": "Polymer/core-ajax#^0.5",
+    "core-animated-pages": "Polymer/core-animated-pages#^0.5",
+    "paper-tabs": "Polymer/paper-tabs#^0.5",
+    "paper-item": "Polymer/paper-item#^0.5",
+    "paper-shadow": "Polymer/paper-shadow#^0.5",
+    "flatiron-director": "PolymerLabs/flatiron-director#^0.5"
   }
 }
